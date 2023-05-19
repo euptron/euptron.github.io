@@ -1,7 +1,12 @@
-### Hi there ✌️ i'm EUP:
 
-🔭 I’m currently working on personal projects <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning kotlin<br>🇳🇬 I'm from  [Nigeria](https://en.wikipedia.org/wiki/Nigeria)<br><br><br>
 
+Hi, I'm EUP
+
+I'm an 18 year old Nigerian Android developer passionate about building apps that make a difference. I'm always looking for new ways to learn and grow.
+
+I'm currently working on Enotes,Westudio and some personal projects, and I'm excited to share my work with the world. I'm also always looking for new opportunities to collaborate with others.
+
+<!--If you're interested in learning more about me, please feel free to check out my GitHub profile. I'm always happy to chat with new people!-->
 
 [![](https://visitcount.itsvg.in/api?id=etidoUP&icon=1&color=9)](https://visitcount.itsvg.in)
 
