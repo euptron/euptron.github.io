@@ -24,5 +24,5 @@ This profile showcases my skills, projects, and contributions to the open-source
 
 
 **Connect with me!**
-- Let's discuss over Telegram: [@etidoUP](https://t.me/etidoUP)
+- Let's discuss over [Telegram](https://t.me/etidoUP)
 - Follow my [X](https://x.com/etidoUP?t=MmeqlAU1WupuHrSgG11aGQ&s=09)
