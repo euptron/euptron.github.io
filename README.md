@@ -1,6 +1,6 @@
 # Welcome to my GitHub profile! 
 
-I'm Etido UP, an 18-year-old mobile application developer with a passion for solving real-world problems through code. My journey began with a fascination for math and programming, leading me to pursue computer science. Driven by curiosity and a thirst for knowledge, I'm constantly seeking new challenges and opportunities to learn and grow as a developer.
+I'm Etido, a 19-year-old software developer with a passion for solving real-world problems through code. My journey began with a fascination for science and programming, leading me to pursue computer science. Driven by curiosity and a thirst for knowledge, I'm constantly seeking new challenges and opportunities to learn and grow as a developer.
 
 This profile showcases my skills, projects, and contributions to the open-source community. Feel free to explore my work, connect with me, and join me on my coding adventure! 
 
@@ -26,3 +26,5 @@ This profile showcases my skills, projects, and contributions to the open-source
 **Connect with me!**
 - Let's discuss over [Telegram](https://t.me/etidoUP)
 - Follow my [X](https://x.com/etidoUP?t=MmeqlAU1WupuHrSgG11aGQ&s=09)
+
+<iframe src="https://github.com/sponsors/etidoUP/card" title="Sponsor etidoUP" height="225" width="600" style="border: 0;"></iframe>
