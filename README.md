@@ -9,7 +9,7 @@ I'm Etido, a 19-year-old software developer and Computer Science undergraduate a
 ### Featured Project
 
 **[CodeOps Studio](https://github.com/etidoUP/CodeOps-Studio)**  
-Automates dependency management, resolves version conflicts, and provides intuitive visualizations for efficient Android development.
+A code editor and IDE for android devices.
 
 ### Overall Status
 
