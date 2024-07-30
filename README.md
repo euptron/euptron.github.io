@@ -13,9 +13,9 @@ A code editor and IDE for android devices.
 
 ### Overall Status
 
-![](https://github-readme-stats.vercel.app/api?username=etidoUP&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=etidoUP&theme=graywhite&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=etidoUP&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=euptron&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=euptron&theme=graywhite&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=euptron&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### Connect with Me
 - [Telegram](https://t.me/etidoUP)
