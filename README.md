@@ -1,7 +1,6 @@
-## Welcome to My GitHub Profile
+## Hi <3
 
-Hi I'm EUP a CS undergraduate from Nigeria.
-This repository highlights my best works and progress
+I'm EUP, a CS undergraduate from Nigeria. I build software that enhances niche workflows, automates processes, and supports mobile-first development.
 
 ### Featured Project
 
@@ -16,5 +15,7 @@ This repository highlights my best works and progress
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=euptron&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### Connect with Me
+> Feel free to reach me on any of these platforms
+
 - [Telegram](https://t.me/euptron)
 - [X/Twitter](https://x.com/euptron)
