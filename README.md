@@ -17,5 +17,6 @@ I'm EUP, a CS undergraduate from Nigeria. I build software that enhances niche w
 ### Connect with Me
 > Feel free to reach me on any of these platforms
 
+- [Medium](https://medium.com/@eup)
 - [Telegram](https://t.me/euptron)
 - [X/Twitter](https://x.com/euptron)
