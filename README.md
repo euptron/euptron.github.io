@@ -5,10 +5,14 @@ This repository highlights my best works and progress
 
 ### Featured Project
 
-**[CodeOps Studio](https://github.com/euptron/CodeOps-Studio)**  
-A mobile-first code editor and evolving IDE for Android devices.
+<a href="https://github.com/euptron/CodeOps-Studio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=euptron&repo=CodeOps-Studio&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="CodeOps Studio" />
+</a>
 
-**[Dependency Haven](https://github.com/euptron/dependency-haven)** A java library for parsing and resolving Maven-based dependencies.
+
+<a href="https://github.com/euptron/dependency-haven">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=euptron&repo=dependency-haven&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Dependency Haven" />
+</a>
 
 ### Overall Status
 
