@@ -1,16 +1,14 @@
-# Welcome to My GitHub Profile
+## Welcome to My GitHub Profile
 
-Hi I'm EUP a 20-year-old Computer Science undergraduate in Nigeria.
-This repository highlights my best works, most used languages e.t.c
-
-I build to differ
+Hi I'm EUP a CS undergraduate from Nigeria.
+This repository highlights my best works and progress
 
 ### Featured Project
 
 **[CodeOps Studio](https://github.com/euptron/CodeOps-Studio)**  
-A code editor and evolving IDE for android devices.
+A mobile-first code editor and evolving IDE for Android devices.
 
-**[Dependency Haven](https://github.com/euptron/dependency-haven)** A java library for parsing and resolving Maven based dependencies 
+**[Dependency Haven](https://github.com/euptron/dependency-haven)** A java library for parsing and resolving Maven-based dependencies.
 
 ### Overall Status
 
