@@ -1,15 +1,16 @@
 # Welcome to My GitHub Profile
 
-I'm Etido, a 19-year-old software developer and Computer Science undergraduate at the University of Calabar. With a passion for solving real-world problems through code, I am dedicated to continuous learning and growth in the field of software development.
+Hi I'm EUP a 20-year-old Computer Science undergraduate in Nigeria.
+This repository highlights my best works, most used languages e.t.c
 
-### About Me
-- 📛 Alias: EUP
-- 💡 Primary Language: Java
+I build to differ
 
 ### Featured Project
 
-**[CodeOps Studio](https://github.com/etidoUP/CodeOps-Studio)**  
-A code editor and IDE for android devices.
+**[CodeOps Studio](https://github.com/euptron/CodeOps-Studio)**  
+A code editor and evolving IDE for android devices.
+
+**[Dependency Haven](https://github.com/euptron/DependencyHaven)** A java library for parsing and resolving Maven based dependencies 
 
 ### Overall Status
 
@@ -19,5 +20,4 @@ A code editor and IDE for android devices.
 
 ### Connect with Me
 - [Telegram](https://t.me/etidoUP)
-- [X](https://x.com/etidoUP)
-- [etido.up@gmail.com](mailto:etido.up@gmail.com)
+- [X/Twitter](https://x.com/euptron)
