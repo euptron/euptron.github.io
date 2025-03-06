@@ -10,7 +10,7 @@ I build to differ
 **[CodeOps Studio](https://github.com/euptron/CodeOps-Studio)**  
 A code editor and evolving IDE for android devices.
 
-**[Dependency Haven](https://github.com/euptron/DependencyHaven)** A java library for parsing and resolving Maven based dependencies 
+**[Dependency Haven](https://github.com/euptron/dependency-haven)** A java library for parsing and resolving Maven based dependencies 
 
 ### Overall Status
 
