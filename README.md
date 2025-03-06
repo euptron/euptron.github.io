@@ -17,5 +17,5 @@ A mobile-first code editor and evolving IDE for Android devices.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=euptron&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### Connect with Me
-- [Telegram](https://t.me/etidoUP)
+- [Telegram](https://t.me/euptron)
 - [X/Twitter](https://x.com/euptron)
