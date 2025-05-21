@@ -6,8 +6,6 @@ I'm EUP, a CS undergraduate from Nigeria. I build software that enhances niche w
 
 ![](https://github-readme-stats.vercel.app/api/pin?username=euptron&repo=CodeOps-Studio&show_icons=true&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api/pin?username=euptron&repo=dependency-haven&show_icons=true&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ### Overall Status
 
 ![](https://github-readme-stats.vercel.app/api?username=euptron&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true)  
