@@ -1,4 +1,4 @@
-## Hi <3
+## Hi <3 
 
 I'm EUP, a CS undergraduate from Nigeria. I build software that enhances niche workflows, automates processes, and supports mobile-first development.
 
